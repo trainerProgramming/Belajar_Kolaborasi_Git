@@ -1,2 +1,3 @@
 # Belajar_Kolaboarasi_Git
-Setup Environment Git
+
+1. Setup
